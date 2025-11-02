@@ -1,5 +1,7 @@
 ?:
 
+(starred on paper ver)
+
 - [walkthrough] Perfect square always making discriminant zero (91261 2019)
 - [walkthrough] sums and products rule in quadratics:
   - $AB = -\frac{b}{a}$, and $A+B = \frac{c}{a}$
